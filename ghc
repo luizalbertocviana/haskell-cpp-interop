@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ghc $* -L./Debug -llib -optl-Wl,-rpath,./Debug
