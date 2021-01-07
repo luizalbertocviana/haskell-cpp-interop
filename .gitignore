@@ -1,3 +1,11 @@
 /#%20markdown-code-fontification%3Ahaskell-mode#KNzlQL#
 /Debug/
 /Lib.hs~
+/#%20markdown-code-fontification%3Ac++-mode#zwXRm6#
+/#%20markdown-code-fontification%3Ahaskell-mode#Y2ih1c#
+/App
+*.hi
+/App.hs~
+*.o
+/Main.hs~
+/ghc~
